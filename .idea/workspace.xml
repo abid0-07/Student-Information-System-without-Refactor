@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4edde93a-7c84-4cd4-8d6a-1ae7e9308f0f" name="Changes" comment="" />
+    <list default="true" id="4edde93a-7c84-4cd4-8d6a-1ae7e9308f0f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student Information System/myPackage/CSE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student Information System/myPackage/CSE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student Information System/myPackage/ITM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student Information System/myPackage/ITM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student Information System/myPackage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student Information System/myPackage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student Information System/myPackage/SWE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student Information System/myPackage/SWE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Student Information System/myPackage/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student Information System/myPackage/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myPackage/CSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myPackage/CSE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myPackage/ITM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myPackage/ITM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myPackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myPackage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myPackage/SWE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myPackage/SWE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myPackage/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myPackage/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -26,16 +42,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/WorkPlace/JAVA/Java project/Class project/Student Information System",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/WorkPlace/JAVA/Java project/Class project/Student Information System&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="myPackage" />
@@ -49,7 +71,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668951610107</updated>
+      <workItem from="1680930897425" duration="900000" />
+      <workItem from="1700315157823" duration="1138000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

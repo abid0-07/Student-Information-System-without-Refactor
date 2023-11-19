@@ -2,7 +2,7 @@ package myPackage;
 
 public abstract class Student {
     private String name;
-    private String department;
+    protected String department;
     protected String id;
     private String email;
     private String phoneNumber;
@@ -20,21 +20,19 @@ public abstract class Student {
     }
 
 
-    public void setDepartment(){
-        this.department = department;
-    }
+
 
     public String getId() {
         return id;
     }
 
-    public abstract void setId(String id);
+
 
     public String getEmail() {
         return email;
     }
 
-   public  void setEmail(){}
+
 
     public String getPhoneNumber() {
         return phoneNumber;
@@ -57,9 +55,12 @@ public abstract class Student {
         System.out.println("\t\t-------------------------------");
         courseList();
         System.out.println("\t\t-------------------------------");
+        semesterFee();
+        System.out.println("\t\t-------------------------------");
     }
     public abstract void courseList();
-
+    public abstract void semesterFee();
+    public abstract void setId(String id);
 
 
     //public abstract void setEmail();
